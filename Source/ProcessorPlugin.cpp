@@ -66,7 +66,7 @@ void ProcessorPlugin::handleTTLEvent(TTLEventPtr event)
 }
 
 
-void ProcessorPlugin::handleSpike(SpikePtr event)
+void ProcessorPlugin::handleSpike(SpikePtr spike)
 {
 
 }
